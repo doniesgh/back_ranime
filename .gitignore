@@ -1,0 +1,8 @@
+/node_modules
+.env
+config/server.key
+config/server.crt
+/uploads/*.*
+!/uploads/.gitkeep
+/docs-back
+.idea
